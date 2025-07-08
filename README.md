@@ -26,8 +26,8 @@ Pinterest + Discord + whiteboarding, B2B focused, cloudless P2P architecture
 
 ## Companies
 
-**block-xaero Inc.** - Building privacy first social networks that are open source driven peer-to-peer, decentralized and offline-first quantized agents on Rust and Python.
-**DrippLab** - Build social networks that are cloudless, offline-first and secure with privacy first.
+- **block-xaero Inc.** - Building privacy first social networks that are open source driven peer-to-peer, decentralized and offline-first quantized agents on Rust and Python.
+- **DrippLab** - Build social networks that are cloudless, offline-first and secure with privacy first.
 
 ---
 
