@@ -22,7 +22,7 @@ Pinterest + Discord + whiteboarding, B2B focused, cloudless P2P architecture
 ## Tech Stack
 
 - Rust, QUIC, DHT, LMDB, Flutter, Zero-knowledge proofs
-- Flutter, Dart
+- Swift, Flutter, Dart, Android NDK, Python, Candle, NumPy
 
 ## Companies
 
