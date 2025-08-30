@@ -5,7 +5,7 @@ In my previous life I wrote a lot of data engineering tools and microservices us
 
 ## Current Projects
 
-**XaeroAI** - offline first, p2p, quantized / nano AI models built on `Candle`.
+**XaeroAI** - offline first, p2p, quantized / nano AI models built on `candle-rs`.
 
 **XaeroFlux** - Offline-first P2P storage engine in Rust  
 Ring buffer-based event processing, LMDB + merkle trees, Iroh networking
@@ -14,7 +14,7 @@ Ring buffer-based event processing, LMDB + merkle trees, Iroh networking
 T-shirt sized pools, zero-allocation hot paths, LMAX disruptor inspired
 
 **XaeroID** - Decentralized identity system  
-did:peer with Falcon-512 signatures, ZK proofs via arkworks
+did:peer with Falcon-512 signatures, ZK proofs built using arkworks circuits.
 
 **Cyan** - Collaborative whiteboarding platform  
 Pinterest + Discord + whiteboarding, B2B focused, cloudless P2P architecture
