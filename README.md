@@ -1,6 +1,6 @@
 # Anirudh Vyas
 
-I build web3, peer-to-peer, decentralized and offline first dApps and their underlying infrastructure in Rust, PyTorch, Candle.
+I build peer-to-peer, decentralized and offline first cloudless apps and their underlying infrastructure in Rust, PyTorch, Candle.
 In my previous life I wrote a lot of data engineering tools and microservices using Scala (Akka and Spark), Go and Python. 
 
 ## Current Projects
