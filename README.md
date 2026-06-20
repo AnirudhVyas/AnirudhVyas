@@ -1,10 +1,10 @@
 # Anirudh Vyas
 
-Founder and product leader who still ships. I set the direction, lead the team, and write the hard parts myself. 22 years building software, now running my own company.
+I am product leader with 22 years of experience shaping different products across various domains. I build things that last for a long time and are valuable. I value product market fits and customer's needs. I have done stints at Data Engineering leading development of high performance, high throughput ingestion system at PB scales, Query Engine and its microservice infrastructure at big data scale and more. I have led teams to success by leading and mentoring and also leading by example. 
 
 ## What I'm building
 
-**[Cyan]** agentic, collaborative AI that glues media production end to end: pre-production, post, and delivery/distribution.
+Cyan -  Agentic, collaborative AI that glues media production end to end: pre-production, post, and delivery/distribution.
 
 Currently piloting with **Planetcast Media Services** for **IBC 2026**.
 
@@ -17,14 +17,17 @@ Currently piloting with **Planetcast Media Services** for **IBC 2026**.
 
 ## How it's built
 Rust + Tokio + Axum + Claude :) 
-Earlier career: Scala (Akka, Spark), Go, Python — data engineering and microservices at scale and in a different lifetime a lot of products that scale. 
+
+Before this I have done long stints by building backend infrastructure services  in Java, Scala, Golang - backing PB scale data engineering infrastructure, performance analytics and what not.
 
 ## Track record
 
-- ex-Principal Engineer at **Workday**; 
 - Advisor to **Planetcast Media**. 
-
+- ex-Principal Engineer at **Workday**; 
+- seasoned leader having led teams at various cross domain groups ranging from Wells Fargo to Group RCI helping shape products that scale and are loved by customers from day 1.
+  
 Previously founded **DrippLab** (fka Goldilocks Fashion) — where I built private social network with virtual try on services for fit, aesthetics and cyclical fashion e-commerce.
+
 
 ## Contact
 
