@@ -1,6 +1,6 @@
 # Anirudh Vyas
 
-I am product leader with 22 years of experience shaping different products across various domains. I build things that last for a long time and are valuable. I value product market fit and customer's needs. I have done stints at leading Data Engineering leading development of high performance, high throughput querying and ingestion platform at PB scales, think Big Query-like scale, In past I help build transaction risk management system saving with 2 M$ in savings anually because of fraud detection in an online post order e-commerce setup. I have led teams to success by leading and mentoring and also leading by example and I particularly enjoy working and shaping complex product needs with emphasis on performance and scalability. 
+I am product leader with 22 years of experience shaping different products across various domains. I build things that last for a long time and are valuable. I value product market fit and customer's needs. I have done stints at leading Data Engineering leading development of high performance, high throughput querying and ingestion platform at PB scales, think Big Query-like scale, In past I help build transaction risk management system producing 2 M$ in savings anually because of fraud detection in an online post order e-commerce setup. I have led teams to success by leading and mentoring and also leading by example and I particularly enjoy working and shaping complex product needs with emphasis on performance and scalability. 
 
 ## What I'm building
 
