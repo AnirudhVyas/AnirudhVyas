@@ -1,11 +1,7 @@
 # Anirudh Vyas
 
-Product leader with 2 decades of engineering Product and leading teams to scale. Currently building Cyan, Driving Product and Engineering Transformation at Planetcast Media.  
-## What I'm building
+Product leader with 2 decades of engineering Product and leading teams to scale. Currently building Cyan, Driving Product and Engineering Transformation at Planetcast Media. 
 
-Cyan -  Agentic, collaborative AI that glues media production end to end: pre-production, post, and delivery/distribution.
-
-Currently piloting with **Planetcast Media Services** for **IBC 2026**.
 
 
 ## How it's built
@@ -14,7 +10,7 @@ Rust + Tokio + Axum + Claude :)
 
 ## Track record
 
-- Advisor to **Planetcast Media**. 
+- Executive Director at **Planetcast Media**. 
 - ex-Principal Engineer at **Workday**; 
 - seasoned leader having led teams at various cross domain groups ranging from Wells Fargo to Group RCI helping shape products that scale and are loved by customers from day 1.
   
