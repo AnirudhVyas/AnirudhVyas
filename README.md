@@ -11,6 +11,7 @@ Rust + Tokio + Axum + Claude :)
 ## Track record
 
 - Executive Director at **Planetcast Media**. 
+- Founder and CEO at Dripplab - a private social network with VTO as foundation.
 - ex-Principal Engineer at **Workday**; 
 - seasoned leader having led teams at various cross domain groups ranging from Wells Fargo to Group RCI helping shape products that scale and are loved by customers from day 1.
   
